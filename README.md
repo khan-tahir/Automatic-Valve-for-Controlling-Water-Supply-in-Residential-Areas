@@ -35,7 +35,7 @@ Cost-effective solution applicable to residential buildings, industries, and wat
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit.jpg)
+![Circuit Diagram](/Circuit Diagram/circuit.jpg)
 
 ## Usage
 1. Run the provided Python script using PyFirmata on your computer.
