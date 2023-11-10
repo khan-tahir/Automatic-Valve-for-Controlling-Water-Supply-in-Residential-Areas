@@ -1,7 +1,7 @@
 # Automatic-Valve-for-Controlling-Water-Supply-in-Residential-Areas
 
 ## Overview
-Implemented an innovative and sustainable solution to tackle the challenges of limited and uneven water supply in residential areas. Developed an automatic solenoid valve system controlled by an Arduino UNO board to ensure equitable water distribution, eliminating timing constraints, pressure variations, and reducing water wastage.
+Implemented an innovative and sustainable solution to tackle the real-world challenges of limited and uneven water supply in residential areas. Developed an automatic solenoid valve system controlled by an Arduino UNO board to ensure equitable water distribution, eliminating timing constraints, pressure variations, and reducing water wastage.
 
 ## Features
 - Equal distribution of water to each house.
